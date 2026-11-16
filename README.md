@@ -1,4 +1,4 @@
-# Jogo de Leilão — versão digital
+# Jogo de Leilão — Versão digital
 
 Jogo de leilão para 3 a 6 jogadores no mesmo aparelho (cada pessoa vê a própria mão em sua vez). Cada vaga pode ser uma pessoa ou um bot.
 
