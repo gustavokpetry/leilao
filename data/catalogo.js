@@ -17,7 +17,7 @@
   "valor": 1,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-01.webp",
+  "imagem": "dinheiro/din-dolar-01.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_01.png"
  },
  {
@@ -28,7 +28,7 @@
   "valor": 2,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-02.webp",
+  "imagem": "dinheiro/din-dolar-02.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_02.png"
  },
  {
@@ -39,7 +39,7 @@
   "valor": 3,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-03.webp",
+  "imagem": "dinheiro/din-dolar-03.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_03.png"
  },
  {
@@ -50,7 +50,7 @@
   "valor": 4,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-04.webp",
+  "imagem": "dinheiro/din-dolar-04.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_04.png"
  },
  {
@@ -61,7 +61,7 @@
   "valor": 5,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-05.webp",
+  "imagem": "dinheiro/din-dolar-05.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_05.png"
  },
  {
@@ -72,7 +72,7 @@
   "valor": 6,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-06.webp",
+  "imagem": "dinheiro/din-dolar-06.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_06.png"
  },
  {
@@ -83,7 +83,7 @@
   "valor": 7,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-07.webp",
+  "imagem": "dinheiro/din-dolar-07.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_07.png"
  },
  {
@@ -94,7 +94,7 @@
   "valor": 8,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-08.webp",
+  "imagem": "dinheiro/din-dolar-08.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_08.png"
  },
  {
@@ -105,7 +105,7 @@
   "valor": 9,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-09.webp",
+  "imagem": "dinheiro/din-dolar-09.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_09.png"
  },
  {
@@ -116,7 +116,7 @@
   "valor": 10,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-10.webp",
+  "imagem": "dinheiro/din-dolar-10.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_10.png"
  },
  {
@@ -127,7 +127,7 @@
   "valor": 11,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-11.webp",
+  "imagem": "dinheiro/din-dolar-11.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_11.png"
  },
  {
@@ -138,7 +138,7 @@
   "valor": 12,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-12.webp",
+  "imagem": "dinheiro/din-dolar-12.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_12.png"
  },
  {
@@ -149,7 +149,7 @@
   "valor": 13,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-13.webp",
+  "imagem": "dinheiro/din-dolar-13.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_13.png"
  },
  {
@@ -160,7 +160,7 @@
   "valor": 14,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-14.webp",
+  "imagem": "dinheiro/din-dolar-14.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_14.png"
  },
  {
@@ -171,7 +171,7 @@
   "valor": 15,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-dolar-15.webp",
+  "imagem": "dinheiro/din-dolar-15.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_dolar_15.png"
  },
  {
@@ -182,7 +182,7 @@
   "valor": 1,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-01.webp",
+  "imagem": "dinheiro/din-euro-01.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_01.png"
  },
  {
@@ -193,7 +193,7 @@
   "valor": 2,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-02.webp",
+  "imagem": "dinheiro/din-euro-02.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_02.png"
  },
  {
@@ -204,7 +204,7 @@
   "valor": 3,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-03.webp",
+  "imagem": "dinheiro/din-euro-03.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_03.png"
  },
  {
@@ -215,7 +215,7 @@
   "valor": 4,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-04.webp",
+  "imagem": "dinheiro/din-euro-04.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_04.png"
  },
  {
@@ -226,7 +226,7 @@
   "valor": 5,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-05.webp",
+  "imagem": "dinheiro/din-euro-05.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_05.png"
  },
  {
@@ -237,7 +237,7 @@
   "valor": 6,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-06.webp",
+  "imagem": "dinheiro/din-euro-06.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_06.png"
  },
  {
@@ -248,7 +248,7 @@
   "valor": 7,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-07.webp",
+  "imagem": "dinheiro/din-euro-07.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_07.png"
  },
  {
@@ -259,7 +259,7 @@
   "valor": 8,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-08.webp",
+  "imagem": "dinheiro/din-euro-08.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_08.png"
  },
  {
@@ -270,7 +270,7 @@
   "valor": 9,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-09.webp",
+  "imagem": "dinheiro/din-euro-09.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_09.png"
  },
  {
@@ -281,7 +281,7 @@
   "valor": 10,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-10.webp",
+  "imagem": "dinheiro/din-euro-10.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_10.png"
  },
  {
@@ -292,7 +292,7 @@
   "valor": 11,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-11.webp",
+  "imagem": "dinheiro/din-euro-11.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_11.png"
  },
  {
@@ -303,7 +303,7 @@
   "valor": 12,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-12.webp",
+  "imagem": "dinheiro/din-euro-12.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_12.png"
  },
  {
@@ -314,7 +314,7 @@
   "valor": 13,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-13.webp",
+  "imagem": "dinheiro/din-euro-13.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_13.png"
  },
  {
@@ -325,7 +325,7 @@
   "valor": 14,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-14.webp",
+  "imagem": "dinheiro/din-euro-14.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_14.png"
  },
  {
@@ -336,7 +336,7 @@
   "valor": 15,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-euro-15.webp",
+  "imagem": "dinheiro/din-euro-15.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_euro_15.png"
  },
  {
@@ -347,7 +347,7 @@
   "valor": 1,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-01.webp",
+  "imagem": "dinheiro/din-kwanza-01.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_01.png"
  },
  {
@@ -358,7 +358,7 @@
   "valor": 2,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-02.webp",
+  "imagem": "dinheiro/din-kwanza-02.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_02.png"
  },
  {
@@ -369,7 +369,7 @@
   "valor": 3,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-03.webp",
+  "imagem": "dinheiro/din-kwanza-03.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_03.png"
  },
  {
@@ -380,7 +380,7 @@
   "valor": 4,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-04.webp",
+  "imagem": "dinheiro/din-kwanza-04.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_04.png"
  },
  {
@@ -391,7 +391,7 @@
   "valor": 5,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-05.webp",
+  "imagem": "dinheiro/din-kwanza-05.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_05.png"
  },
  {
@@ -402,7 +402,7 @@
   "valor": 6,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-06.webp",
+  "imagem": "dinheiro/din-kwanza-06.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_06.png"
  },
  {
@@ -413,7 +413,7 @@
   "valor": 7,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-07.webp",
+  "imagem": "dinheiro/din-kwanza-07.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_07.png"
  },
  {
@@ -424,7 +424,7 @@
   "valor": 8,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-08.webp",
+  "imagem": "dinheiro/din-kwanza-08.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_08.png"
  },
  {
@@ -435,7 +435,7 @@
   "valor": 9,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-09.webp",
+  "imagem": "dinheiro/din-kwanza-09.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_09.png"
  },
  {
@@ -446,7 +446,7 @@
   "valor": 10,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-10.webp",
+  "imagem": "dinheiro/din-kwanza-10.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_10.png"
  },
  {
@@ -457,7 +457,7 @@
   "valor": 11,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-11.webp",
+  "imagem": "dinheiro/din-kwanza-11.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_11.png"
  },
  {
@@ -468,7 +468,7 @@
   "valor": 12,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-12.webp",
+  "imagem": "dinheiro/din-kwanza-12.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_12.png"
  },
  {
@@ -479,7 +479,7 @@
   "valor": 13,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-13.webp",
+  "imagem": "dinheiro/din-kwanza-13.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_13.png"
  },
  {
@@ -490,7 +490,7 @@
   "valor": 14,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-14.webp",
+  "imagem": "dinheiro/din-kwanza-14.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_14.png"
  },
  {
@@ -501,7 +501,7 @@
   "valor": 15,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-kwanza-15.webp",
+  "imagem": "dinheiro/din-kwanza-15.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_kwanza_15.png"
  },
  {
@@ -512,7 +512,7 @@
   "valor": 1,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-01.webp",
+  "imagem": "dinheiro/din-real-01.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_01.png"
  },
  {
@@ -523,7 +523,7 @@
   "valor": 2,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-02.webp",
+  "imagem": "dinheiro/din-real-02.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_02.png"
  },
  {
@@ -534,7 +534,7 @@
   "valor": 3,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-03.webp",
+  "imagem": "dinheiro/din-real-03.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_03.png"
  },
  {
@@ -545,7 +545,7 @@
   "valor": 4,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-04.webp",
+  "imagem": "dinheiro/din-real-04.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_04.png"
  },
  {
@@ -556,7 +556,7 @@
   "valor": 5,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-05.webp",
+  "imagem": "dinheiro/din-real-05.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_05.png"
  },
  {
@@ -567,7 +567,7 @@
   "valor": 6,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-06.webp",
+  "imagem": "dinheiro/din-real-06.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_06.png"
  },
  {
@@ -578,7 +578,7 @@
   "valor": 7,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-07.webp",
+  "imagem": "dinheiro/din-real-07.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_07.png"
  },
  {
@@ -589,7 +589,7 @@
   "valor": 8,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-08.webp",
+  "imagem": "dinheiro/din-real-08.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_08.png"
  },
  {
@@ -600,7 +600,7 @@
   "valor": 9,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-09.webp",
+  "imagem": "dinheiro/din-real-09.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_09.png"
  },
  {
@@ -611,7 +611,7 @@
   "valor": 10,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-10.webp",
+  "imagem": "dinheiro/din-real-10.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_10.png"
  },
  {
@@ -622,7 +622,7 @@
   "valor": 11,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-11.webp",
+  "imagem": "dinheiro/din-real-11.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_11.png"
  },
  {
@@ -633,7 +633,7 @@
   "valor": 12,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-12.webp",
+  "imagem": "dinheiro/din-real-12.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_12.png"
  },
  {
@@ -644,7 +644,7 @@
   "valor": 13,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-13.webp",
+  "imagem": "dinheiro/din-real-13.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_13.png"
  },
  {
@@ -655,7 +655,7 @@
   "valor": 14,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-14.webp",
+  "imagem": "dinheiro/din-real-14.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_14.png"
  },
  {
@@ -666,7 +666,7 @@
   "valor": 15,
   "pontos": null,
   "efeito": null,
-  "imagem": "assets/cartas/dinheiro/din-real-15.webp",
+  "imagem": "dinheiro/din-real-15.webp",
   "arquivoOriginal": "01_Dinheiro/dinheiro_real_15.png"
  },
  {
@@ -678,7 +678,7 @@
   "pontos": 5,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-96.webp",
+  "imagem": "animais/ani-96.webp",
   "arquivoOriginal": "02_Animais/animal_animal_indefinido_+5pts_base_96.png",
   "nota": "Arquivo original: “animal_indefinido”. Nome atribuído pela imagem (cavalo).",
   "revisar": true
@@ -692,7 +692,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-30.webp",
+  "imagem": "animais/ani-30.webp",
   "arquivoOriginal": "02_Animais/animal_ave_branca_+1pts_extra_30.png"
  },
  {
@@ -704,7 +704,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-31.webp",
+  "imagem": "animais/ani-31.webp",
   "arquivoOriginal": "02_Animais/animal_ave_branca_+1pts_extra_31.png"
  },
  {
@@ -716,7 +716,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-32.webp",
+  "imagem": "animais/ani-32.webp",
   "arquivoOriginal": "02_Animais/animal_ave_branca_+1pts_extra_32.png"
  },
  {
@@ -728,7 +728,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-33.webp",
+  "imagem": "animais/ani-33.webp",
   "arquivoOriginal": "02_Animais/animal_ave_branca_+1pts_extra_33.png"
  },
  {
@@ -740,7 +740,7 @@
   "pontos": 0,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-09.webp",
+  "imagem": "animais/ani-09.webp",
   "arquivoOriginal": "02_Animais/animal_burro_+0pts_extra_09.png"
  },
  {
@@ -752,7 +752,7 @@
   "pontos": 0,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-10.webp",
+  "imagem": "animais/ani-10.webp",
   "arquivoOriginal": "02_Animais/animal_burro_+0pts_extra_10.png"
  },
  {
@@ -764,7 +764,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-24.webp",
+  "imagem": "animais/ani-24.webp",
   "arquivoOriginal": "02_Animais/animal_cabra_+1pts_extra_24.png"
  },
  {
@@ -776,7 +776,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-25.webp",
+  "imagem": "animais/ani-25.webp",
   "arquivoOriginal": "02_Animais/animal_cabra_+1pts_extra_25.png"
  },
  {
@@ -788,7 +788,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-26.webp",
+  "imagem": "animais/ani-26.webp",
   "arquivoOriginal": "02_Animais/animal_cabra_+1pts_extra_26.png"
  },
  {
@@ -800,7 +800,7 @@
   "pontos": 2,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-22.webp",
+  "imagem": "animais/ani-22.webp",
   "arquivoOriginal": "02_Animais/animal_cabra_+2pts_extra_22.png",
   "nota": "Arquivo original dizia “cabra +2”. A imagem é a mesma dos gatos +2.",
   "revisar": true
@@ -814,7 +814,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-23.webp",
+  "imagem": "animais/ani-23.webp",
   "arquivoOriginal": "02_Animais/animal_cabra_+2pts_extra_23.png",
   "nota": "Arquivo original dizia “+2”. A carta mostra +1.",
   "revisar": true
@@ -828,7 +828,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-18.webp",
+  "imagem": "animais/ani-18.webp",
   "arquivoOriginal": "02_Animais/animal_cao_+2pts_extra_18.png",
   "nota": "Arquivo original dizia “cão +2”. A carta mostra um coelho +1.",
   "revisar": true
@@ -842,7 +842,7 @@
   "pontos": 2,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-19.webp",
+  "imagem": "animais/ani-19.webp",
   "arquivoOriginal": "02_Animais/animal_cao_+2pts_extra_19.png",
   "nota": "Arquivo original dizia “cão”. A imagem parece um gato siamês.",
   "revisar": true
@@ -856,7 +856,7 @@
   "pontos": 2,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-20.webp",
+  "imagem": "animais/ani-20.webp",
   "arquivoOriginal": "02_Animais/animal_cao_+2pts_extra_20.png",
   "nota": "Arquivo original dizia “cão”. A imagem parece um gato siamês.",
   "revisar": true
@@ -870,7 +870,7 @@
   "pontos": 2,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-21.webp",
+  "imagem": "animais/ani-21.webp",
   "arquivoOriginal": "02_Animais/animal_cao_+2pts_extra_21.png",
   "nota": "Arquivo original dizia “cão”. A imagem parece um gato siamês.",
   "revisar": true
@@ -884,7 +884,7 @@
   "pontos": 3,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-48.webp",
+  "imagem": "animais/ani-48.webp",
   "arquivoOriginal": "02_Animais/animal_cao_+3pts_extra_48.png"
  },
  {
@@ -895,7 +895,7 @@
   "valor": null,
   "pontos": -5,
   "efeito": "devorar-maior",
-  "imagem": "assets/cartas/animais/ani-chupacabra-1.webp",
+  "imagem": "animais/ani-chupacabra-1.webp",
   "arquivoOriginal": "02_Animais/animal_chupacabra_-5pts_01.png",
   "nota": "A carta mostra -5 pontos. O documento de regras não cita esse valor.",
   "revisar": true
@@ -908,7 +908,7 @@
   "valor": null,
   "pontos": -5,
   "efeito": "devorar-maior",
-  "imagem": "assets/cartas/animais/ani-chupacabra-2.webp",
+  "imagem": "animais/ani-chupacabra-2.webp",
   "arquivoOriginal": "02_Animais/animal_chupacabra_-5pts_02.png",
   "nota": "A carta mostra -5 pontos. O documento de regras não cita esse valor.",
   "revisar": true
@@ -922,7 +922,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-15.webp",
+  "imagem": "animais/ani-15.webp",
   "arquivoOriginal": "02_Animais/animal_coelho_+1pts_extra_15.png"
  },
  {
@@ -934,7 +934,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-16.webp",
+  "imagem": "animais/ani-16.webp",
   "arquivoOriginal": "02_Animais/animal_coelho_+1pts_extra_16.png"
  },
  {
@@ -946,7 +946,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-17.webp",
+  "imagem": "animais/ani-17.webp",
   "arquivoOriginal": "02_Animais/animal_coelho_+1pts_extra_17.png"
  },
  {
@@ -958,7 +958,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-72.webp",
+  "imagem": "animais/ani-72.webp",
   "arquivoOriginal": "02_Animais/animal_galinha_+1pts_base_72.png"
  },
  {
@@ -970,7 +970,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-73.webp",
+  "imagem": "animais/ani-73.webp",
   "arquivoOriginal": "02_Animais/animal_galinha_+1pts_base_73.png"
  },
  {
@@ -982,7 +982,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-74.webp",
+  "imagem": "animais/ani-74.webp",
   "arquivoOriginal": "02_Animais/animal_galinha_+1pts_base_74.png"
  },
  {
@@ -994,7 +994,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-75.webp",
+  "imagem": "animais/ani-75.webp",
   "arquivoOriginal": "02_Animais/animal_galinha_+1pts_base_75.png"
  },
  {
@@ -1006,7 +1006,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-76.webp",
+  "imagem": "animais/ani-76.webp",
   "arquivoOriginal": "02_Animais/animal_galinha_+1pts_base_76.png"
  },
  {
@@ -1018,7 +1018,7 @@
   "pontos": 5,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-92.webp",
+  "imagem": "animais/ani-92.webp",
   "arquivoOriginal": "02_Animais/animal_galo_+5pts_base_92.png"
  },
  {
@@ -1030,7 +1030,7 @@
   "pontos": 5,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-49.webp",
+  "imagem": "animais/ani-49.webp",
   "arquivoOriginal": "02_Animais/animal_gamba_ou_mofeta_+5pts_extra_49.png",
   "nota": "Arquivo original dizia “gambá ou mofeta”. A imagem parece um cão husky.",
   "revisar": true
@@ -1044,7 +1044,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-34.webp",
+  "imagem": "animais/ani-34.webp",
   "arquivoOriginal": "02_Animais/animal_ganso_+1pts_extra_34.png"
  },
  {
@@ -1056,7 +1056,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-35.webp",
+  "imagem": "animais/ani-35.webp",
   "arquivoOriginal": "02_Animais/animal_ganso_+1pts_extra_35.png"
  },
  {
@@ -1068,7 +1068,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-36.webp",
+  "imagem": "animais/ani-36.webp",
   "arquivoOriginal": "02_Animais/animal_ganso_+1pts_extra_36.png"
  },
  {
@@ -1080,7 +1080,7 @@
   "pontos": 5,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-94.webp",
+  "imagem": "animais/ani-94.webp",
   "arquivoOriginal": "02_Animais/animal_javali_+5pts_base_94.png"
  },
  {
@@ -1092,7 +1092,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-82.webp",
+  "imagem": "animais/ani-82.webp",
   "arquivoOriginal": "02_Animais/animal_ovelha_+1pts_base_82.png"
  },
  {
@@ -1104,7 +1104,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-83.webp",
+  "imagem": "animais/ani-83.webp",
   "arquivoOriginal": "02_Animais/animal_ovelha_+1pts_base_83.png"
  },
  {
@@ -1116,7 +1116,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-84.webp",
+  "imagem": "animais/ani-84.webp",
   "arquivoOriginal": "02_Animais/animal_ovelha_+1pts_base_84.png"
  },
  {
@@ -1128,7 +1128,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-85.webp",
+  "imagem": "animais/ani-85.webp",
   "arquivoOriginal": "02_Animais/animal_ovelha_+1pts_base_85.png"
  },
  {
@@ -1140,7 +1140,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-86.webp",
+  "imagem": "animais/ani-86.webp",
   "arquivoOriginal": "02_Animais/animal_ovelha_+1pts_base_86.png"
  },
  {
@@ -1152,7 +1152,7 @@
   "pontos": 5,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-93.webp",
+  "imagem": "animais/ani-93.webp",
   "arquivoOriginal": "02_Animais/animal_ovelha_+5pts_base_93.png",
   "nota": "Arquivo original dizia “ovelha +5”. A imagem tem chifres curvos (carneiro).",
   "revisar": true
@@ -1166,7 +1166,7 @@
   "pontos": 3,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-44.webp",
+  "imagem": "animais/ani-44.webp",
   "arquivoOriginal": "02_Animais/animal_papagaio_+3pts_extra_44.png"
  },
  {
@@ -1178,7 +1178,7 @@
   "pontos": 3,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-45.webp",
+  "imagem": "animais/ani-45.webp",
   "arquivoOriginal": "02_Animais/animal_papagaio_+3pts_extra_45.png"
  },
  {
@@ -1190,7 +1190,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-11.webp",
+  "imagem": "animais/ani-11.webp",
   "arquivoOriginal": "02_Animais/animal_pato_+1pts_extra_11.png"
  },
  {
@@ -1202,7 +1202,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-12.webp",
+  "imagem": "animais/ani-12.webp",
   "arquivoOriginal": "02_Animais/animal_pato_+1pts_extra_12.png"
  },
  {
@@ -1214,7 +1214,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-13.webp",
+  "imagem": "animais/ani-13.webp",
   "arquivoOriginal": "02_Animais/animal_pato_+1pts_extra_13.png"
  },
  {
@@ -1226,7 +1226,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-14.webp",
+  "imagem": "animais/ani-14.webp",
   "arquivoOriginal": "02_Animais/animal_pato_+1pts_extra_14.png"
  },
  {
@@ -1238,7 +1238,7 @@
   "pontos": 5,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-50.webp",
+  "imagem": "animais/ani-50.webp",
   "arquivoOriginal": "02_Animais/animal_pavao_+5pts_extra_50.png"
  },
  {
@@ -1250,7 +1250,7 @@
   "pontos": 3,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-46.webp",
+  "imagem": "animais/ani-46.webp",
   "arquivoOriginal": "02_Animais/animal_peru_+3pts_extra_46.png"
  },
  {
@@ -1262,7 +1262,7 @@
   "pontos": 3,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-47.webp",
+  "imagem": "animais/ani-47.webp",
   "arquivoOriginal": "02_Animais/animal_peru_+3pts_extra_47.png"
  },
  {
@@ -1274,7 +1274,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-67.webp",
+  "imagem": "animais/ani-67.webp",
   "arquivoOriginal": "02_Animais/animal_pintinho_+1pts_base_67.png"
  },
  {
@@ -1286,7 +1286,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-68.webp",
+  "imagem": "animais/ani-68.webp",
   "arquivoOriginal": "02_Animais/animal_pintinho_+1pts_base_68.png"
  },
  {
@@ -1298,7 +1298,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-69.webp",
+  "imagem": "animais/ani-69.webp",
   "arquivoOriginal": "02_Animais/animal_pintinho_+1pts_base_69.png"
  },
  {
@@ -1310,7 +1310,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-70.webp",
+  "imagem": "animais/ani-70.webp",
   "arquivoOriginal": "02_Animais/animal_pintinho_+1pts_base_70.png"
  },
  {
@@ -1322,7 +1322,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-71.webp",
+  "imagem": "animais/ani-71.webp",
   "arquivoOriginal": "02_Animais/animal_pintinho_+1pts_base_71.png"
  },
  {
@@ -1334,7 +1334,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-27.webp",
+  "imagem": "animais/ani-27.webp",
   "arquivoOriginal": "02_Animais/animal_pintinho_+1pts_extra_27.png"
  },
  {
@@ -1346,7 +1346,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-28.webp",
+  "imagem": "animais/ani-28.webp",
   "arquivoOriginal": "02_Animais/animal_pintinho_+1pts_extra_28.png"
  },
  {
@@ -1358,7 +1358,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-29.webp",
+  "imagem": "animais/ani-29.webp",
   "arquivoOriginal": "02_Animais/animal_pintinho_+1pts_extra_29.png"
  },
  {
@@ -1370,7 +1370,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-77.webp",
+  "imagem": "animais/ani-77.webp",
   "arquivoOriginal": "02_Animais/animal_porco_+1pts_base_77.png"
  },
  {
@@ -1382,7 +1382,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-78.webp",
+  "imagem": "animais/ani-78.webp",
   "arquivoOriginal": "02_Animais/animal_porco_+1pts_base_78.png"
  },
  {
@@ -1394,7 +1394,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-79.webp",
+  "imagem": "animais/ani-79.webp",
   "arquivoOriginal": "02_Animais/animal_porco_+1pts_base_79.png"
  },
  {
@@ -1406,7 +1406,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-80.webp",
+  "imagem": "animais/ani-80.webp",
   "arquivoOriginal": "02_Animais/animal_porco_+1pts_base_80.png"
  },
  {
@@ -1418,7 +1418,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-81.webp",
+  "imagem": "animais/ani-81.webp",
   "arquivoOriginal": "02_Animais/animal_porco_+1pts_base_81.png"
  },
  {
@@ -1430,7 +1430,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-40.webp",
+  "imagem": "animais/ani-40.webp",
   "arquivoOriginal": "02_Animais/animal_porquinho_da_india_+1pts_extra_40.png",
   "nota": "Arquivo original dizia “porquinho-da-índia”. A imagem é um sapo.",
   "revisar": true
@@ -1444,7 +1444,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-41.webp",
+  "imagem": "animais/ani-41.webp",
   "arquivoOriginal": "02_Animais/animal_porquinho_da_india_+1pts_extra_41.png"
  },
  {
@@ -1456,7 +1456,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-42.webp",
+  "imagem": "animais/ani-42.webp",
   "arquivoOriginal": "02_Animais/animal_porquinho_da_india_+1pts_extra_42.png"
  },
  {
@@ -1468,7 +1468,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-43.webp",
+  "imagem": "animais/ani-43.webp",
   "arquivoOriginal": "02_Animais/animal_porquinho_da_india_+1pts_extra_43.png"
  },
  {
@@ -1480,7 +1480,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-37.webp",
+  "imagem": "animais/ani-37.webp",
   "arquivoOriginal": "02_Animais/animal_sapo_+1pts_extra_37.png",
   "nota": "Arquivo original dizia “sapo”. A imagem é um ganso.",
   "revisar": true
@@ -1494,7 +1494,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-38.webp",
+  "imagem": "animais/ani-38.webp",
   "arquivoOriginal": "02_Animais/animal_sapo_+1pts_extra_38.png"
  },
  {
@@ -1506,7 +1506,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "extra",
-  "imagem": "assets/cartas/animais/ani-39.webp",
+  "imagem": "animais/ani-39.webp",
   "arquivoOriginal": "02_Animais/animal_sapo_+1pts_extra_39.png"
  },
  {
@@ -1518,7 +1518,7 @@
   "pontos": 5,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-95.webp",
+  "imagem": "animais/ani-95.webp",
   "arquivoOriginal": "02_Animais/animal_touro_+5pts_base_95.png"
  },
  {
@@ -1530,7 +1530,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-87.webp",
+  "imagem": "animais/ani-87.webp",
   "arquivoOriginal": "02_Animais/animal_vaca_+1pts_base_87.png"
  },
  {
@@ -1542,7 +1542,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-88.webp",
+  "imagem": "animais/ani-88.webp",
   "arquivoOriginal": "02_Animais/animal_vaca_+1pts_base_88.png"
  },
  {
@@ -1554,7 +1554,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-89.webp",
+  "imagem": "animais/ani-89.webp",
   "arquivoOriginal": "02_Animais/animal_vaca_+1pts_base_89.png"
  },
  {
@@ -1566,7 +1566,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-90.webp",
+  "imagem": "animais/ani-90.webp",
   "arquivoOriginal": "02_Animais/animal_vaca_+1pts_base_90.png"
  },
  {
@@ -1578,7 +1578,7 @@
   "pontos": 1,
   "efeito": null,
   "conjunto": "base",
-  "imagem": "assets/cartas/animais/ani-91.webp",
+  "imagem": "animais/ani-91.webp",
   "arquivoOriginal": "02_Animais/animal_vaca_+1pts_base_91.png"
  },
  {
@@ -1590,7 +1590,7 @@
   "pontos": null,
   "efeito": "prorrogar",
   "textoCarta": "Prorroga o leilão! Confisca os valores ofertados e o item leiloado é acumulado para a próxima rodada.",
-  "imagem": "assets/cartas/receita/rec-01.webp",
+  "imagem": "receita/rec-01.webp",
   "arquivoOriginal": "03_Receita_Federal/receita_federal_01.png"
  },
  {
@@ -1602,7 +1602,7 @@
   "pontos": null,
   "efeito": "prorrogar",
   "textoCarta": "Prorroga o leilão! Confisca os valores ofertados e o item leiloado é acumulado para a próxima rodada.",
-  "imagem": "assets/cartas/receita/rec-02.webp",
+  "imagem": "receita/rec-02.webp",
   "arquivoOriginal": "03_Receita_Federal/receita_federal_02.png"
  },
  {
@@ -1614,7 +1614,7 @@
   "pontos": null,
   "efeito": "prorrogar",
   "textoCarta": "Prorroga o leilão! Confisca os valores ofertados e o item leiloado é acumulado para a próxima rodada.",
-  "imagem": "assets/cartas/receita/rec-03.webp",
+  "imagem": "receita/rec-03.webp",
   "arquivoOriginal": "03_Receita_Federal/receita_federal_03.png"
  },
  {
@@ -1626,7 +1626,7 @@
   "pontos": null,
   "efeito": "anular",
   "textoCarta": "Anula o leilão! Confisca os valores ofertados e o item leiloado.",
-  "imagem": "assets/cartas/receita/rec-04.webp",
+  "imagem": "receita/rec-04.webp",
   "arquivoOriginal": "03_Receita_Federal/receita_federal_04.png"
  },
  {
@@ -1638,7 +1638,7 @@
   "pontos": null,
   "efeito": "anular",
   "textoCarta": "Anula o leilão! Confisca os valores ofertados e o item leiloado.",
-  "imagem": "assets/cartas/receita/rec-05.webp",
+  "imagem": "receita/rec-05.webp",
   "arquivoOriginal": "03_Receita_Federal/receita_federal_05.png"
  },
  {
@@ -1650,7 +1650,7 @@
   "pontos": null,
   "efeito": "anular",
   "textoCarta": "Anula o leilão! Confisca os valores ofertados e o item leiloado.",
-  "imagem": "assets/cartas/receita/rec-06.webp",
+  "imagem": "receita/rec-06.webp",
   "arquivoOriginal": "03_Receita_Federal/receita_federal_06.png"
  }
 ];
